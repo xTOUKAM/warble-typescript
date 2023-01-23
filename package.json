@@ -1,0 +1,18 @@
+{
+  "name": "warble",
+  "version": "1.0.0",
+  "description": "Bot de l'infrastructure de Warble",
+  "main": "index.ts",
+  "author": "TOUKAM",
+  "license": "MIT",
+  "scripts": {
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@types/node": "18.11.18",
+    "discord.js": "14.7.1",
+    "dotenv": "16.0.3",
+    "typescript": "4.9.4"
+  },
+  "devDependencies": {}
+}
